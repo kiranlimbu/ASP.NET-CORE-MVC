@@ -4,4 +4,3 @@ Personal Projects
 <h4>Job Application Poster</h4>
 <hr>
 <div><img src="jobapplication.JPG" width="450">	&nbsp;<img src="jobapplication2.JPG" width="450" align="top"></div>
-<div><img src="Visual%20Algorithm/visual_Algorithm3.JPG" width="450"></div>
